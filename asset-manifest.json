@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shack/static/css/main.6a965f4c.css",
+    "main.js": "/Shack/static/js/main.d7d726d9.js",
+    "static/media/logo.png": "/Shack/static/media/logo.0d5497e436f22961450d.png",
+    "static/media/banner.png": "/Shack/static/media/banner.4055787954b97aafc4f4.png",
+    "index.html": "/Shack/index.html",
+    "main.6a965f4c.css.map": "/Shack/static/css/main.6a965f4c.css.map",
+    "main.d7d726d9.js.map": "/Shack/static/js/main.d7d726d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a965f4c.css",
+    "static/js/main.d7d726d9.js"
+  ]
+}
