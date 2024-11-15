@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Shack/static/css/main.be84e943.css",
-    "main.js": "/Shack/static/js/main.b56858c7.js",
+    "main.js": "/Shack/static/js/main.f0d06163.js",
     "static/media/logo.png": "/Shack/static/media/logo.0d5497e436f22961450d.png",
     "static/media/homeBanner.png": "/Shack/static/media/homeBanner.ee91fde3083cc37790df.png",
     "index.html": "/Shack/index.html",
     "main.be84e943.css.map": "/Shack/static/css/main.be84e943.css.map",
-    "main.b56858c7.js.map": "/Shack/static/js/main.b56858c7.js.map"
+    "main.f0d06163.js.map": "/Shack/static/js/main.f0d06163.js.map"
   },
   "entrypoints": [
     "static/css/main.be84e943.css",
-    "static/js/main.b56858c7.js"
+    "static/js/main.f0d06163.js"
   ]
 }
